@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .phong {
   height: 600px;
   background: #fff;
@@ -128,3 +129,35 @@
 >>>>>>> c8a4a519c606a471fe7a2c31f14b7f7fc962c95e
 
 /*# sourceMappingURL=style.css.map */
+=======
+.box {
+  width: 100%;
+  height: 80px; }
+  .box .header .h5 {
+    color: #6D9C91;
+    padding-left: 100px;
+    font-size: 30px; }
+  .box .mn {
+    margin-left: 400px;
+    font-size: 16px; }
+  .box .nav-item {
+    margin-left: 20px;
+    font-weight: bold; }
+    .box .nav-item a {
+      color: #000; }
+    .box .nav-item:hover {
+      border-bottom: solid 2px #6D9C91; }
+  .box .hm1 {
+    display: block;
+    background: #6D9C91; }
+    .box .hm1 a.nav-link {
+      color: #fff;
+      font-weight: bold; }
+
+.box1 {
+  width: 100%;
+  height: 200px;
+  background: #6D9C91; }
+
+/*# sourceMappingURL=style.css.map */
+>>>>>>> 5eb831329bbbd5a69357445a8e83fc5fd344dc65
