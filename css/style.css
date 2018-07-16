@@ -1,0 +1,53 @@
+.phong {
+  height: 600px;
+  background: #fff;
+  margin: 0 auto; }
+  .phong .phong1 {
+    padding-top: 30px;
+    height: 600px;
+    background: #fff; }
+    .phong .phong1 .p1 {
+      border: 0.5px solid gray;
+      color: #000;
+      height: 100px;
+      width: 80%;
+      margin-left: 85px;
+      background: #DDDDDD; }
+      .phong .phong1 .p1 a {
+        text-decoration: none; }
+      .phong .phong1 .p1 h4 {
+        color: #669966;
+        padding-left: 15px;
+        font-size: 18px; }
+      .phong .phong1 .p1 p {
+        padding-left: 30px;
+        font-size: 14px;
+        color: #000; }
+      .phong .phong1 .p1:hover {
+        background: #006666; }
+        .phong .phong1 .p1:hover h4, .phong .phong1 .p1:hover p {
+          color: #fff; }
+    .phong .phong1 .p2, .phong .phong1 .p3, .phong .phong1 .p4 {
+      border: 0.5px solid gray;
+      color: #000;
+      height: 100px;
+      width: 80%;
+      margin-left: 85px; }
+      .phong .phong1 .p2 h4, .phong .phong1 .p3 h4, .phong .phong1 .p4 h4 {
+        font-size: 18px;
+        padding-left: 15px;
+        font-family: inherit;
+        color: inherit; }
+      .phong .phong1 .p2 p, .phong .phong1 .p3 p, .phong .phong1 .p4 p {
+        padding-left: 30px;
+        font-size: 14px;
+        text-align: left; }
+  .phong .phong2 {
+    padding-top: 50px;
+    height: 400px; }
+    .phong .phong2 img.image5 {
+      display: block;
+      max-width: 90%;
+      height: auto; }
+
+/*# sourceMappingURL=style.css.map */
